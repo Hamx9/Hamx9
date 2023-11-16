@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hammau696@gmail.com**
 
-- ⚡ Fun fact **i think i'm funny , but my code just throws exception on my jokes.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
