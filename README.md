@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **hammau696@gmail.com**
+- 📫 How to reach me **hammau6962@gmail.com**
 
 
 
